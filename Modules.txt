@@ -1,0 +1,11 @@
+Modules need to Install->
+
+npm i <Module Name>
+
+1>node
+2>express
+3>mongoose
+4>lodash
+5>EJS
+
+
